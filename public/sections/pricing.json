@@ -58,5 +58,10 @@
         "id": "pricing-vibrant-flat",
         "name": "Vibrant Flat",
         "category": "Pricing"
+    },
+    {
+        "id": "section-pricing-flexible",
+        "name": "Flexible Pricing Plans",
+        "category": "Pricing"
     }
 ]

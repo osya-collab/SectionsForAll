@@ -28,5 +28,10 @@
         "id": "section-happiness-collage",
         "name": "Happiness Guide Collage",
         "category": "Hero"
+    },
+    {
+        "id": "hero-pricing-combo-v1",
+        "name": "Hero with Overlapping Pricing",
+        "category": "Hero"
     }
 ]

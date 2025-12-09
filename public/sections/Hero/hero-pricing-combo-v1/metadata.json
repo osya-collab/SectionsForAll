@@ -1,0 +1,37 @@
+{
+    "name": "Hero with Overlapping Pricing",
+    "category": "Hero",
+    "description": "A combined Hero and Pricing section featuring a split background, overlapping visuals, and a 3-column pricing grid.",
+    "tags": [
+        "hero",
+        "pricing",
+        "cards",
+        "overlap",
+        "hosting"
+    ],
+    "structure": [
+        "section",
+        "container",
+        "hero-row",
+        "pricing-row"
+    ],
+    "complexity": "complex",
+    "use_cases": [
+        "SaaS Landing Page",
+        "Hosting Service",
+        "Service Packages"
+    ],
+    "style_analysis": {
+        "colors": [
+            "#ea580c",
+            "#1f2937",
+            "#f3f4f6",
+            "#ffffff"
+        ],
+        "fonts": [
+            "Oswald",
+            "Roboto"
+        ],
+        "visual_identity": "High contrast, split background, overlapping elements, bold typography, flat UI with subtle shadows."
+    }
+}

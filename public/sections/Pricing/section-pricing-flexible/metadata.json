@@ -1,0 +1,42 @@
+{
+    "name": "Flexible Pricing Plans",
+    "category": "Pricing",
+    "description": "A 3-column pricing table section featuring distinctive color-coded cards (Essential, Elite, Advanced) with a prominent 'Flexible. Scalable. Smart.' header.",
+    "tags": [
+        "pricing",
+        "plans",
+        "subscription",
+        "cards",
+        "grid"
+    ],
+    "structure": [
+        "section",
+        "container",
+        "header",
+        "row (3 cols)",
+        "card",
+        "feature list",
+        "button"
+    ],
+    "complexity": "intermediate",
+    "use_cases": [
+        "SaaS Pricing",
+        "Service Packages",
+        "Membership Tiers"
+    ],
+    "style_analysis": {
+        "colors": [
+            "#e0e0e0",
+            "#d65a68",
+            "#d1d1d1",
+            "#dcbcc0",
+            "#dcd5d0"
+        ],
+        "fonts": [
+            "Poppins",
+            "Inter",
+            "sans-serif"
+        ],
+        "visual_identity": "Clean, card-based layout with soft pastel background colors distinguishing different tiers. Typography is bold for prices and headers, emphasizing clarity and hierarchy."
+    }
+}
